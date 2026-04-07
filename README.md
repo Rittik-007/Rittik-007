@@ -1,4 +1,4 @@
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rittik-007&" alt="rittik-007" /></p><img width="1584" height="396" alt="front-end_cover" src="https://github.com/user-attachments/assets/16dcdd1d-a8ee-42b3-a6a7-1914cd6ce3a3" />
+<img width="1584" height="396" alt="front-end_cover" src="https://github.com/user-attachments/assets/16dcdd1d-a8ee-42b3-a6a7-1914cd6ce3a3" />
 
 <h1 align="center">Hi 👋, I'm Rittik Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
@@ -28,4 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rittik-007&show_icons=true&locale=en" alt="rittik-007" /></p>
 
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rittik-007&" alt="rittik-007" /></p>
