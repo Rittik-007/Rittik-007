@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rittik Hasan</h1>
 <h3 align="center">Passionate frontend developer from Bangladesh</h3>
 
-<div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=500&color=3B3CE6&center=true&vCenter=true&width=435&lines=Always%2C+learning!;Always+improving!)](https://git.io/typing-svg)
-</div>
+<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B3CF7&width=435&lines=Always+learning!;Always+improving!" alt="Typing SVG" /></a>
 
 
 - 🔭 I’m currently working on **self development**
@@ -49,7 +47,6 @@
 
 
 
-
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/rittik-hasan/" target="_blank">
@@ -59,7 +56,6 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
-
 
 
 
