@@ -3,7 +3,9 @@
 <h1 align="center">Hi 👋, I'm Rittik Hasan</h1>
 <h3 align="center">Passionate frontend developer from Bangladesh</h3>
 
-<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B3CF7&width=435&lines=Always+learning!;Always+improving!" alt="Typing SVG" /></a>
+<div align="center">
+  <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B3CF7&width=435&lines=Always+learning!;Always+improving!" alt="Typing SVG" /></a>
+</div>
 
 
 - 🔭 I’m currently working on **self development**
