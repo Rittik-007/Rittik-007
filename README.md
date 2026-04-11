@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Rittik Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rittik-007&label=Profile%20views&color=0e75b6&style=flat" alt="rittik-007" /> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=500&color=3B3CE6&center=true&vCenter=true&width=435&lines=Always%2C+learning!;Always+improving!)](https://git.io/typing-svg)
+
 
 - 🔭 I’m currently working on **self development**
 
@@ -50,4 +51,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rittik-007&" alt="rittik-007" /></p>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rittik-007&label=Profile%20views&color=0e75b6&style=flat" alt="rittik-007" /> </p>
 
